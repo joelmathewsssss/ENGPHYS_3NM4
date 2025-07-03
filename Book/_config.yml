@@ -6,7 +6,7 @@ only_build_toc_files: true
 logo: _static/logo.png
 
 repository:
-  url                       : https://github.com/mwelland/ENGPHYS_3NM4  # Online location of your book
+  url                       : https://github.com/joelmathewsssss/ENGPHYS_3NM4  # Online location of your book
   path_to_book              : Book  # Optional path to your book, relative to the repository root
   branch                    : main  # Which branch of the repository should be used when creating links (optional)
 
